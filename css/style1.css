@@ -1,0 +1,127 @@
+.navbar-expand-lg{
+
+    
+
+
+}
+
+.bgimg{
+	background-image: url('../images/dinner.jpg');
+	background-position: center center;
+	background-size: cover;
+
+	height:380px;
+	
+
+
+}
+.bgh{
+	text-align:center;
+	position: ltr;
+	margin-top: 20px;
+	font-family:'Pacifico';
+}
+
+.card{
+	margin-top: 60px;
+}
+
+/* ======contact us section==========*/
+
+
+.contact-us-form .form-control{
+	                             display: block;
+	                           	 height: 50px;
+	                           	 width: 100%;
+	                           	 padding: 6px 12px;
+	                           	 font-size: 14px;
+	                           	 line-height: 21px;
+	                           	 color: #555;
+	                           	 background-color:transparent;
+	                           	 border: 1px solid #aeaeae;
+	                           	 border-radius: 5px;
+	                           	 margin-bottom: 15px;
+	                           	 transition: all .5s;
+	                           	
+}
+
+#massage{
+
+	    height: 117px;
+	    resize: none;
+
+
+}
+.submit-btn{
+	                             display: block;
+	                           	 height: 50px;
+	                           	 width: 100%;
+	                           	 padding: 6px 12px;
+	                           	 font-size: 14px;
+	                           	 line-height: 21px;
+	                           	 background-color: #e76666;
+	                           	 color: white;
+	                           	 border: 1px solid #e76666;
+	                           	 border-radius: 5px;
+	                           	 margin-bottom: 15px;
+	                           	 transition: all .5s;
+   
+
+}
+.submit-btn:hover{
+	color: #e76666;
+	background-color: white;
+	border: 1px solid #e76666;
+}
+
+.social-icons{
+    padding-top: 50px;
+    padding-bottom: 70px; 
+
+
+}
+
+.social-icons ul{
+	
+	text-align: center;
+	padding-right: 40px;
+
+
+}
+.social-icons ul li{
+	
+	display: inline;
+	list-style: none;
+	padding-left: 10px;
+
+}
+
+.social-icons ul li a i{
+	font-size: 20px;	
+}
+.icon-color{
+
+	color:black;
+}
+/*----FOOTER----*/
+
+
+footer{
+	background-color: #1a1a1a;
+	padding-bottom: 35px;
+	padding-top: 35px;
+	border-bottom: 3px solid #129CF3;
+}
+
+#copy-right p{
+	font-size: 15px;
+	color: #8C8B8A;
+	text-transform: uppercase;
+
+
+}
+
+.d-block{
+	width:100%; 
+	height: 590px;
+}
